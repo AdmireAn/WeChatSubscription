@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d75bbc9b-e0c9-4a47-a3be-757b496ababe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/公众号如何变现.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/公众号快速涨粉套路.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/公众号社区热帖.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sidebar.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/为什么要运营公众号.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/做什么内容.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/公众号运营工具.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/如何做出好看的排版.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/发第一篇文章-三分钟教程.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/如何涨粉.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/公众号文章标题写法套路.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/爬虫程序.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/公众号文章标题写法套路.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/公众号文章标题写法套路.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/发第一篇文章-三分钟教程.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/发第一篇文章-三分钟教程.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,13 +27,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/公众号如何变现.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="4" selection-end-column="54" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/公众号社区热帖.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
@@ -59,11 +51,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/公众号运营工具.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+            <state relative-caret-position="-2355">
+              <caret line="4" column="54" lean-forward="true" selection-end-line="4" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -71,8 +63,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/发第一篇文章-三分钟教程.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="467">
+              <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
             </state>
           </provider>
         </entry>
@@ -80,8 +72,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/公众号文章标题写法套路.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="467">
-              <caret line="210" column="8" selection-start-line="210" selection-start-column="8" selection-end-line="210" selection-end-column="8" />
+            <state relative-caret-position="404">
+              <caret line="191" column="69" lean-forward="true" selection-start-line="191" selection-start-column="69" selection-end-line="191" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -94,8 +86,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/公众号快速涨粉套路.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+            <state relative-caret-position="68">
+              <caret line="4" column="54" lean-forward="true" selection-end-line="4" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -103,8 +95,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+            <state relative-caret-position="289">
+              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -126,14 +118,15 @@
         <option value="$PROJECT_DIR$/docs/为什么要运营公众号.md" />
         <option value="$PROJECT_DIR$/docs/快速涨粉套路.md" />
         <option value="$PROJECT_DIR$/docs/sw.js" />
-        <option value="$PROJECT_DIR$/docs/公众号文章标题写法套路.md" />
-        <option value="$PROJECT_DIR$/docs/README.md" />
-        <option value="$PROJECT_DIR$/docs/公众号运营工具.md" />
-        <option value="$PROJECT_DIR$/docs/公众号快速涨粉套路.md" />
         <option value="$PROJECT_DIR$/docs/index.html" />
-        <option value="$PROJECT_DIR$/docs/发第一篇文章-三分钟教程.md" />
         <option value="$PROJECT_DIR$/docs/_sidebar.md" />
         <option value="$PROJECT_DIR$/docs/公众号社区热帖.md" />
+        <option value="$PROJECT_DIR$/docs/公众号如何变现.md" />
+        <option value="$PROJECT_DIR$/docs/公众号快速涨粉套路.md" />
+        <option value="$PROJECT_DIR$/docs/公众号运营工具.md" />
+        <option value="$PROJECT_DIR$/docs/README.md" />
+        <option value="$PROJECT_DIR$/docs/发第一篇文章-三分钟教程.md" />
+        <option value="$PROJECT_DIR$/docs/公众号文章标题写法套路.md" />
       </list>
     </option>
   </component>
@@ -169,7 +162,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586591637571" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586592330115" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -230,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586333457090</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="更新第二版">
+      <created>1586591701306</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1586591701306</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -268,7 +268,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一版" />
     <MESSAGE value="设置&quot;为什么要做公众号&quot;为首页" />
-    <option name="LAST_COMMIT_MESSAGE" value="设置&quot;为什么要做公众号&quot;为首页" />
+    <MESSAGE value="更新第二版" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新第二版" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/docs/_sidebar.md">
@@ -298,52 +299,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/公众号文章标题写法套路.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="210" column="8" selection-start-line="210" selection-start-column="8" selection-end-line="210" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/公众号快速涨粉套路.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/公众号运营工具.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="148">
           <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/发第一篇文章-三分钟教程.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/公众号如何变现.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
@@ -354,10 +313,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/docs/公众号如何变现.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="4" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/公众号快速涨粉套路.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="54" lean-forward="true" selection-end-line="4" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/docs/公众号社区热帖.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/发第一篇文章-三分钟教程.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/公众号文章标题写法套路.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="191" column="69" lean-forward="true" selection-start-line="191" selection-start-column="69" selection-end-line="191" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/公众号运营工具.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2355">
+          <caret line="4" column="54" lean-forward="true" selection-end-line="4" selection-end-column="54" />
         </state>
       </provider>
     </entry>
