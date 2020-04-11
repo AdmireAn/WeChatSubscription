@@ -1,36 +1,19 @@
-申请之前一定要搞清楚一个问题
+# 从零开始运营微信公众号
+- 在线阅读地址：https://admirean.github.io/WeChatSubscription/#/
+- Github：https://github.com/AdmireAn/WeChatSubscription
 
-**你为什么要做公众号呢？**
+## 如何学习
+本项目提供的课程涉及公众号申请、设置、运营、排版、工具、变现等内容，从快速学习的角度来讲，读者可选择适合自己的章节阅读，没必要全部学习。当然，全部浏览一遍可能会有意外发现。
 
-我的想法很简单-赚钱，因为公众号做到500个粉丝以上就可以开通流量主赚钱了。
+## 申明
+本项目部分内容收集于网络，特此鸣谢。
 
-当然，有些人做公众号的初衷并不是赚钱，下面是几种类型大赏：
+* [壹伴](https://yiban.io/)
 
- - 自己文笔不错，喜欢分享所见所闻所想，比如
- ![](https://imgconvert.csdnimg.cn/aHR0cHM6Ly90dmExLnNpbmFpbWcuY24vbGFyZ2UvMDA4MzFyU1RseTFnZGxrazRhaGdhajMwa3UwZGMzemIuanBn?x-oss-process=image/format,png)
- - 纯干货，不分享出来他难受，毕竟人最大的价值是懂的输出嘛，比如
- ![](https://imgconvert.csdnimg.cn/aHR0cHM6Ly90dmExLnNpbmFpbWcuY24vbGFyZ2UvMDA4MzFyU1RseTFnZGxrbXQxaHdsajMwa3UwY2Z3ZjguanBn?x-oss-process=image/format,png)
- - 权威消息发布平台
- ![](https://imgconvert.csdnimg.cn/aHR0cHM6Ly90dmExLnNpbmFpbWcuY24vbGFyZ2UvMDA4MzFyU1RseTFnZGxrbjJ1d3Z1ajMwa3UwZDZ3ZmQuanBn?x-oss-process=image/format,png)
- - 自己对某一个领域比较有研究
-![](https://imgconvert.csdnimg.cn/aHR0cHM6Ly90dmExLnNpbmFpbWcuY24vbGFyZ2UvMDA4MzFyU1RseTFnZGxrbmE4NGVtajMwa3UwYzRteHQuanBn?x-oss-process=image/format,png)
+## 如何贡献
+- 笔记内容大多是手敲，所以难免会有笔误，你可以帮我找错别字。
+- 很多知识点我可能没有涉及到，所以你可以对其他知识点进行补充。
+- 现有的知识点难免存在不完善或者错误，所以你可以对已有知识点进行修改/补充。
 
-
-你为什么要做公众号呢？
-
-这个问题其实是要结合自身情况来看的
-
-不同类型的公众号所需要投入的精力和自身技能是不一样的
-
-
-我建议哈
-
-**最好结合自身的兴趣和擅长的领域来决定方向**
-
-在保证更新频率的基础上
-
-有几篇见解独到的深度好文 就够了
-
-你如果有源源不断的高质量原创产出 就不得了了
-
-说句题外话 周杰伦就是不得了这种类型
+## 联系我
+![Y6VPb4q1Sru29yl](https://i.loli.net/2020/04/11/Y6VPb4q1Sru29yl.png)
