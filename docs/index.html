@@ -8,12 +8,14 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
 </head>
 <body>
 <div id="app"></div>
 <script>
     window.$docsify = {
       name: '从零开始运营微信公众号',
+      disqus: 'shortname',
       repo: 'https://github.com/AdmireAn/WeChatSubscription',
       maxLevel: 3,//最大支持渲染的标题层级,
       subMaxLevel: 3,
@@ -49,5 +51,20 @@
 <script src="//unpkg.com/docsify-copy-code"></script>
 <!-- 图片缩放 -->
 <script src="//unpkg.com/docsify/lib/plugins/zoom-image.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+<script>
+  const gitalk = new Gitalk({
+    clientID: 'b0010ce53d58e116e0be',
+    clientSecret: 'ba57c7e4184e667a693ed5055b3e33b218614eac',
+    repo: 'WeChatSubscription',
+    owner: 'AdmireAn',
+    admin: ['AdmireAn'],
+    // facebook-like distraction free mode
+    distractionFreeMode: false
+  })
+</script>
 </body>
 </html>
