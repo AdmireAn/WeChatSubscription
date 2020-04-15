@@ -23,6 +23,12 @@
       ga: 'WXGZH-YJLS',
       loadSidebar: true,
       auto2top: true,//切换页面后是否自动跳转到页面顶部,
+      pagination: {
+        previousText: '上一章节',
+        nextText: '下一章节',
+        crossChapter: true,
+        crossChapterText: true,
+      },
       //ga: 'UA-138586553-1',
       //logo: 'https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-3logo-透明.png' ,
       search: {
@@ -61,10 +67,11 @@
     repo: 'WeChatSubscription',
     owner: 'AdmireAn',
     admin: ['AdmireAn'],
-    id: decodeURI(location.pathname),
+    //id: decodeURI(location.pathname),
     // facebook-like distraction free mode
     distractionFreeMode: false
   })
 </script>
+<script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
 </body>
 </html>
