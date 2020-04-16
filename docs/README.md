@@ -1,5 +1,5 @@
 # 从零开始运营微信公众号
-- 在线阅读地址：https://admirean.github.io/WeChatSubscription/#/
+- 在线阅读地址：http://www.vipweixin.cn/#/
 - Github：https://github.com/AdmireAn/WeChatSubscription
 
 ## 如何学习
@@ -7,11 +7,17 @@
 
 ## 申明
 本项目部分内容收集于网络，特此鸣谢。
-* [微信公众平台](https://mp.weixin.qq.com/)
-* [壹伴](https://yiban.io/)
-* [知乎](https://www.zhihu.com/)
-* [豆瓣](https://www.douban.com/)
-* [简书](https://www.jianshu.com/)
+* **[![](https://tva1.sinaimg.cn/large/007S8ZIlly1gdvl6ctkfhj3042042q2t.jpg ':size=20%') 微信公众平台](https://mp.weixin.qq.com/)**
+* **[![](https://tva1.sinaimg.cn/large/007S8ZIlly1gdvl6ctkfhj3042042q2t.jpg ':size=20%') 壹伴](https://yiban.io/)**
+* **[![](https://tva1.sinaimg.cn/large/007S8ZIlly1gdvnh0lhjzj30go0go0su.jpg ':size=20%') 知乎](zhihu.com/people/bigannn)**
+* **[![](https://tva1.sinaimg.cn/large/007S8ZIlly1gdvnkjdietj305k05k3yo.jpg ':size=20%') 豆瓣](https://www.douban.com/)**
+* **[![](https://tva1.sinaimg.cn/large/007S8ZIlly1gdvnor5bk7j305k034gld.jpg ':size=20%') 简书](https://www.jianshu.com/)**
+* **[![](https://tva1.sinaimg.cn/large/007S8ZIlly1gdvnr1jjkcj301o01oq2p.jpg ':size=20%') 今日头条](https://mp.toutiao.com/profile_v3/index)**
+* **[![](https://tva1.sinaimg.cn/large/007S8ZIlly1gdvntw75edj30f0076mx3.jpg ':size=20%') 百度统计](https://tongji.baidu.com/web/10000186964/homepage/index)**
+* **[![](https://tva1.sinaimg.cn/large/007S8ZIlly1gdvo39dwvej302600imwx.jpg ':size=20%')腾讯云](https://console.cloud.tencent.com/cns)**
+* **[![](https://tva1.sinaimg.cn/large/007S8ZIlly1gdvo9g9fh3j303e02mmx1.jpg ':size=20%') docsify](https://docsify.js.org/#/)**
+* **[![](https://i.loli.net/2020/04/16/3mqMwslrhU5CuEH.png ':size=20%') 新榜](https://www.newrank.cn/account/user/user.html)**
+* **[![](https://tva1.sinaimg.cn/large/007S8ZIlly1gdvoo77646j304802mmxf.jpg ':size=20%') 历史故事网](http://www.gs5000.com)**
 
 ## 如何贡献
 - 笔记内容大多是手敲，所以难免会有笔误，你可以帮我找错别字。
