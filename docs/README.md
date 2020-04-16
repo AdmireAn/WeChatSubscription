@@ -9,7 +9,7 @@
 本项目部分内容收集于网络，特此鸣谢。
 * **[![](https://tva1.sinaimg.cn/large/007S8ZIlly1gdvl6ctkfhj3042042q2t.jpg ':size=20%') 微信公众平台](https://mp.weixin.qq.com/)**
 * **[![](https://tva1.sinaimg.cn/large/007S8ZIlly1gdvl6ctkfhj3042042q2t.jpg ':size=20%') 壹伴](https://yiban.io/)**
-* **[![](https://tva1.sinaimg.cn/large/007S8ZIlly1gdvnh0lhjzj30go0go0su.jpg ':size=20%') 知乎](zhihu.com/people/bigannn)**
+* **[![](https://tva1.sinaimg.cn/large/007S8ZIlly1gdvnh0lhjzj30go0go0su.jpg ':size=20%') 知乎](https://www.zhihu.com/people/bigannn)**
 * **[![](https://tva1.sinaimg.cn/large/007S8ZIlly1gdvnkjdietj305k05k3yo.jpg ':size=20%') 豆瓣](https://www.douban.com/)**
 * **[![](https://tva1.sinaimg.cn/large/007S8ZIlly1gdvnor5bk7j305k034gld.jpg ':size=20%') 简书](https://www.jianshu.com/)**
 * **[![](https://tva1.sinaimg.cn/large/007S8ZIlly1gdvnr1jjkcj301o01oq2p.jpg ':size=20%') 今日头条](https://mp.toutiao.com/profile_v3/index)**
