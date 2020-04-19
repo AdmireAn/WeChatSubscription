@@ -6,3 +6,8 @@
 * [公众号如何变现](公众号如何变现.md)
 * [公众号社区热帖](公众号社区热帖.md)
 * [互关广场](互关广场.md)
+
+---
+友情链接
+* [wordpres](https://yonganwang.wordpress.com/)
+* [ePUBee](http://cn.epubee.com/books/)
