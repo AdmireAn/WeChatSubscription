@@ -18,6 +18,7 @@
 * **[![](https://tva1.sinaimg.cn/large/007S8ZIlly1gdvo9g9fh3j303e02mmx1.jpg ':size=20%') docsify](https://docsify.js.org/#/)**
 * **[![](https://i.loli.net/2020/04/16/3mqMwslrhU5CuEH.png ':size=20%') 新榜](https://www.newrank.cn/account/user/user.html)**
 * **[![](https://tva1.sinaimg.cn/large/007S8ZIlly1gdvoo77646j304802mmxf.jpg ':size=20%') 历史故事网](http://www.gs5000.com)**
+* **[![](https://i.loli.net/2020/04/20/YPcmeyTr3CUNLOf.png ':size=20%') canva](https://www.canva.cn/)**
 
 ## 如何贡献
 - 笔记内容大多是手敲，所以难免会有笔误，你可以帮我找错别字。
