@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d75bbc9b-e0c9-4a47-a3be-757b496ababe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/河西走廊.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/河西走廊.md" afterDir="false" />
-    </list>
+    <list default="true" id="d75bbc9b-e0c9-4a47-a3be-757b496ababe" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,8 +65,8 @@
         <entry file="file://$PROJECT_DIR$/docs/河西走廊.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="51">
-                <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+              <first_editor relative-caret-position="109">
+                <caret line="9" column="67" lean-forward="true" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
               </first_editor>
               <second_editor />
             </state>
@@ -153,10 +150,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="65" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="54" />
     <option name="y" value="23" />
-    <option name="width" value="1375" />
+    <option name="width" value="1386" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectView">
@@ -414,7 +411,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589299865588</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="支持《河西走廊》">
+      <created>1589300175798</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1589300175798</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -618,8 +622,8 @@
     <entry file="file://$PROJECT_DIR$/docs/河西走廊.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="51">
-            <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <first_editor relative-caret-position="109">
+            <caret line="9" column="67" lean-forward="true" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
           </first_editor>
           <second_editor />
         </state>
