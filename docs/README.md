@@ -19,6 +19,8 @@
 * **[![](https://i.loli.net/2020/04/16/3mqMwslrhU5CuEH.png ':size=20%') 新榜](https://www.newrank.cn/account/user/user.html)**
 * **[![](https://tva1.sinaimg.cn/large/007S8ZIlly1gdvoo77646j304802mmxf.jpg ':size=20%') 历史故事网](http://www.gs5000.com)**
 * **[![](https://i.loli.net/2020/04/20/YPcmeyTr3CUNLOf.png ':size=20%') canva](https://www.canva.cn/)**
+* **[![](https://tva1.sinaimg.cn/large/007S8ZIlly1gfpv37ksqtj303802k74f.jpg  ':size=20%') 迅捷PDF转换器](https://app.xunjiepdf.com/member/index)**
+* **[![](https://tva1.sinaimg.cn/large/007S8ZIlly1gfpv0xhtkbj305u050q3v.jpg  ':size=20%') epubee] (http://cn.epubee.com/books/)**
 
 ## 如何贡献
 - 笔记内容大多是手敲，所以难免会有笔误，你可以帮我找错别字。
