@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d75bbc9b-e0c9-4a47-a3be-757b496ababe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/热帖广场.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/热帖广场.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/交流社区.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sidebar.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +30,9 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1647174885036" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -48,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586326489999</updated>
-      <workItem from="1653886089939" duration="7021000" />
+      <workItem from="1653886089939" duration="7605000" />
     </task>
     <task id="LOCAL-00001" summary="第一版">
       <created>1586330691339</created>
@@ -309,7 +312,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653892645194</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="优化首页">
+      <created>1653893423056</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1653893423056</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -338,17 +348,18 @@
     <MESSAGE value="Merge branch 'master' of git+ssh://github.com/AdmireAn/WeChatSubscription&#10;&#10;# Conflicts:&#10;#&#9;CNAME" />
     <MESSAGE value="改版2.0&#10;去掉互关模块&#10;去掉友情链接模块&#10;独立热帖" />
     <MESSAGE value="排版" />
-    <option name="LAST_COMMIT_MESSAGE" value="排版" />
+    <MESSAGE value="优化首页" />
+    <option name="LAST_COMMIT_MESSAGE" value="优化首页" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="321" y="91" key="CommitChangelistDialog2" timestamp="1653892645034">
+    <state x="321" y="91" key="CommitChangelistDialog2" timestamp="1653893422858">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="321" y="91" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1653892645034" />
-    <state x="496" y="297" key="Vcs.Push.Dialog.v2" timestamp="1653892646920">
+    <state x="321" y="91" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1653893422858" />
+    <state x="496" y="297" key="Vcs.Push.Dialog.v2" timestamp="1653893424772">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="297" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1653892646920" />
+    <state x="496" y="297" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1653893424772" />
   </component>
   <component name="masterDetails">
     <states>
