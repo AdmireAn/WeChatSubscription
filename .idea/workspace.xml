@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d75bbc9b-e0c9-4a47-a3be-757b496ababe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/热帖广场.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/热帖广场.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586326489999</updated>
-      <workItem from="1653886089939" duration="6221000" />
+      <workItem from="1653886089939" duration="7021000" />
     </task>
     <task id="LOCAL-00001" summary="第一版">
       <created>1586330691339</created>
@@ -294,7 +295,21 @@
       <option name="project" value="LOCAL" />
       <updated>1653892476303</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="排版">
+      <created>1653892589189</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1653892589189</updated>
+    </task>
+    <task id="LOCAL-00037" summary="排版">
+      <created>1653892645194</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1653892645194</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -322,17 +337,18 @@
     <MESSAGE value="域名切换" />
     <MESSAGE value="Merge branch 'master' of git+ssh://github.com/AdmireAn/WeChatSubscription&#10;&#10;# Conflicts:&#10;#&#9;CNAME" />
     <MESSAGE value="改版2.0&#10;去掉互关模块&#10;去掉友情链接模块&#10;独立热帖" />
-    <option name="LAST_COMMIT_MESSAGE" value="改版2.0&#10;去掉互关模块&#10;去掉友情链接模块&#10;独立热帖" />
+    <MESSAGE value="排版" />
+    <option name="LAST_COMMIT_MESSAGE" value="排版" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="321" y="91" key="CommitChangelistDialog2" timestamp="1653892476085">
+    <state x="321" y="91" key="CommitChangelistDialog2" timestamp="1653892645034">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="321" y="91" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1653892476085" />
-    <state x="496" y="297" key="Vcs.Push.Dialog.v2" timestamp="1653892477751">
+    <state x="321" y="91" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1653892645034" />
+    <state x="496" y="297" key="Vcs.Push.Dialog.v2" timestamp="1653892646920">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="297" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1653892477751" />
+    <state x="496" y="297" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1653892646920" />
   </component>
   <component name="masterDetails">
     <states>
