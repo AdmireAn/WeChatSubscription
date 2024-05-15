@@ -1,5 +1,5 @@
 # 从零开始运营微信公众号
-- 在线阅读地址：[https://good123.cloud/#/](https://admirean.github.io/WeChatSubscription/)
+- 在线阅读地址：[https://admirean.github.io/WeChatSubscription/](https://admirean.github.io/WeChatSubscription/)
 - [微信公众号](https://mp.weixin.qq.com/)  
 
 关于运营微信公众号，我想说两点：  
